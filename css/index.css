@@ -1,0 +1,27 @@
+
+  #Gen {
+    background-color: #c72525;
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.9;
+  }
+
+  #generated {
+    margin-left: 25vw;
+    width: 50vw;
+    height: 30vh;
+    background-color: white;
+    color: #c72525;
+  }
+
+  #Gen:hover {
+    background-color: #801616;
+  }
+
+  p, h2 {
+    display: inline-block;
+  }
